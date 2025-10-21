@@ -8,6 +8,7 @@
 -**2do error:** Lo detecté cuando me pidió por tercera vez cual nota tiene el alumno cuando yo le especifiqué que solo hay dos alumnos. Puse breakpoints donde guarda los datos del usuario en la variable numAlumnos, en el while y la impresión por consola, desde la vista de variables.  
 -**3er error:** Desde el punto de vista del depurador no ocurre nada, pero viendo el código me di cuenta de la ausencia de llaves.  
 ## 3. Qué cambios hice para corregirlos  
+
 ## 4. Breakpoint condicional para notas inválidas  
 ## 5. Añade las siguientes expresiones en Expressions que muestren el valor de la suma, el contador y la media parcial en cada iteración  
 ## 6. Plantilla (Template)
