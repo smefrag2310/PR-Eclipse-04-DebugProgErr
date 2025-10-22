@@ -16,6 +16,6 @@
 ## 4. Breakpoint condicional para notas inválidas  
 Poniendo el breakpoint condicional en el print de error, se para unicamente cuando se cumple la condición del if.
 ## 5. Añade las siguientes expresiones en Expressions que muestren el valor de la suma, el contador y la media parcial en cada iteración  
-
+[expressions_obligatorias.png](capturas/expressions_obligatorias.png)
 ## 6. Plantilla (Template)
-[Plantilla_pedir_nota.png]()
+[Plantilla_pedir_nota.png](capturas/plantilla_pedir_nota.png)
