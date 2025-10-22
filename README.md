@@ -18,3 +18,4 @@ Poniendo el breakpoint condicional en el print de error, se para unicamente cuan
 ## 5. Añade las siguientes expresiones en Expressions que muestren el valor de la suma, el contador y la media parcial en cada iteración  
 
 ## 6. Plantilla (Template)
+[Plantilla_pedir_nota.png]()
