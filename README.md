@@ -10,9 +10,9 @@
 -**3er error:** Desde el punto de vista del depurador no ocurre nada, pero viendo el código me di cuenta de la ausencia de llaves.  
 -**4to error:** Al introducir un número negativo en la consola del depurador te salta directamente a la media
 ## 3. Qué cambios hice para corregirlos  
--**1er cambio:** A la función if le puse las llaves correspondientes y añadí un else para suma y contador, para que en caso de que la nota no sea válida vuelva a preguntar sobre el mismo alumno y no cuente la nota negativa en la suma.
--**2do cambio:** Inicialicé la variable de contador en 1, para que no cuente un valor más, puesto que no existe un alumno 0.
--**3er cambio:** Usé un bucle do while para que repita el introducir el número de alumnos hasta que me de un número válido.
+-**1er cambio:** A la función if le puse las llaves correspondientes y añadí un else para suma y contador, para que en caso de que la nota no sea válida vuelva a preguntar sobre el mismo alumno y no cuente la nota negativa en la suma.  
+-**2do cambio:** Inicialicé la variable de contador en 1, para que no cuente un valor más, puesto que no existe un alumno 0.  
+-**3er cambio:** Usé un bucle do while para que repita el introducir el número de alumnos hasta que me de un número válido.  
 ## 4. Breakpoint condicional para notas inválidas  
 Poniendo el breakpoint condicional en el print de error, se para unicamente cuando se cumple la condición del if.
 ## 5. Añade las siguientes expresiones en Expressions que muestren el valor de la suma, el contador y la media parcial en cada iteración  
